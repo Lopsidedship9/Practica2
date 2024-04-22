@@ -1,5 +1,4 @@
-Els extres, per dir-lis de alguna anera, son tota la segona part de la practica, el que esta en el segon link.
-Ademes he programat que la dificutat vagi augmentat amb el temps fins a arribar a un maxim.
-Aixó no es nota tant com m'agradaria perque esta molt limitat per el tems d'aparició de les ovelles, pero alguna cosa he fet.
-En resum de la segona part de la practica he fet que es pugi cambiar el color del la hay machine, posar un contador, que el menu sigui interactiu i afegir só.
-No he pogut fer molt mes perque he tingut un problema en mig de la practica que m'ha portat a refer tota la practica de 0 l'ultim dia.
+Els extres, per dir-los d'alguna manera, són tota la segona part de la pràctica, el que està en el segon enllaç. 
+A més he programat que la dificultat vagi augmentat amb el temps fins a arribar a un màxim. Això no es nota tant com m'agradaria perquè està molt limitat pels temps d'aparició de les ovelles, però alguna cosa he fet.
+En resum, de la segona part de la pràctica he fet que es pugui canviar el color de la "Hay machine", posar un comptador, que el menú sigui interactiu i afegir so.
+No he pogut fer molt més perquè he tingut un problema en mig de la pràctica que m'ha portat a refer tota la pràctica de 0 l'últim dia.
